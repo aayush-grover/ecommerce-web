@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b8bfcf4-0b6d-4b26-81e7-e2286ff4c5e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/Controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/Controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/reponse/CategoryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/reponse/CategoryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/reponse/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/reponse/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/shopping.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/shopping.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/AddingItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/AddingItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Category.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/ImageSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/ImageSlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Items.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Items.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Items.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Items.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webApp/frontend/src/components/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/reponse/CategoryResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/reponse/CategoryResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/reponse/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/reponse/LoginResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopping/shopping/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sql/shopping.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sql/shopping.sql" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c1iS3vLPJWZ6XOeYb8buyArwCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/project/shopping/shopping/Exception" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.shopping.shopping.entity" />
+      <recent name="com.project.shopping.shopping.Exception" />
+      <recent name="com.project.shopping.shopping.request" />
+      <recent name="com.project.shopping.shopping.Controller" />
+      <recent name="com.project.shopping.shopping.type" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\backend development\shopping\src\main\java\com\project\shopping\shopping\Exception" />
+      <recent name="E:\backend development\shopping\src\main\java\com\project\shopping\shopping\service" />
+      <recent name="E:\backend development\shopping\src\main\java\com\project\shopping\shopping" />
+      <recent name="E:\backend development\shopping\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ShoppingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.shopping.shopping.ShoppingApplication" />
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.shopping.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShoppingApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b8bfcf4-0b6d-4b26-81e7-e2286ff4c5e2" name="Default Changelist" comment="" />
+      <created>1589702496517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589702496517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

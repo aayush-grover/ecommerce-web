@@ -1,0 +1,49 @@
+.box{
+  background-color: #f1f1f1;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+
+}
+.box::-webkit-scrollbar{
+  display: none;
+}
+.wrapper {
+  scroll-behavior: smooth;
+  align-items: center;
+  
+}
+.mar{
+  display: inline-block;
+  align-items: center;
+  margin: 0 4px !important;
+  border-radius: 15px;
+
+}
+
+.imgbox{
+  overflow: hidden;
+}
+
+  .item {
+    transition: 0.6s ease;
+  }
+    .item:hover { 
+      transform: scale(1.2);
+    }
+    .btnset{
+      color:#fff;
+      font-weight: bold;
+      background:linear-gradient(135deg, #4cb5ff, #8982f7, #4cb5ff,#cccccc,#8982f7);
+      background-size: 400% 400%;
+      border-radius: 100px;
+      transition:all .5s ease;
+      padding: 4px 10px;
+      /* remove border for better styling */
+      border: 0px;
+    }
+    
+    @media (max-width: 576px)
+{
+
+}

@@ -1,0 +1,28 @@
+
+/* fixed background */
+figure{
+    position: relative;
+    width: 100%;
+    height: 60%;
+    margin: 0 !important;
+}
+.fixed-wrap{
+    clip: rect(0,auto,auto, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+#fixed{
+    background-image: url('/images/h3.jpg');
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: cover; 
+    background-position: center center;
+    transform: translateZ(0);
+    will-change: transform;
+}
